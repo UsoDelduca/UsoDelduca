@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UsoDelduca
 - 👀 I’m interested in learning how to code (starting from front-end stuff)
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript and ReactJS
 - 💞️ I’m looking to collaborate on important matters =)
 - 📫 How to reach me: Facebook, LinkedIn, Instagram
 
