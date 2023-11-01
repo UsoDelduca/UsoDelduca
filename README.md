@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on important matters =)
 - 📫 How to reach me: Facebook, [LinkedIn](url), Instagram
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsoDelduca)](https://github.com/UsoDelduca/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsoDelduca&theme=highcontrast)](https://github.com/UsoDelduca/github-readme-stats)
 
 <!---
 UsoDelduca/UsoDelduca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
