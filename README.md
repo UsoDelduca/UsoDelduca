@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @UsoDelduca
 - 👀 I’m interested in improving my coding
-- 🌱 I’m currently developing my Next.Js 13, and PHP skills 
+- 🌱 I’m currently developing my Next.Js 13, Testing, and PHP skills
+- :computer: Open to work and actively looking for a Junior position :computer:
 - 💞️ I’m looking to collaborate on important matters =)
 - 📫 How to reach me: Facebook, [LinkedIn](url), Instagram
 
