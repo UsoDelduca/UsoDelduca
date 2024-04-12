@@ -6,10 +6,11 @@
     - Testing,
     - Next.Js 13,
     - PHP,
-    - C#, and much more...
+    - C#,
+    - AWS and Azure, and much more...
 - :computer: Open to work and actively looking for a Junior position :computer:
 - 💞️ I’m looking to collaborate on important matters =)
-- 📫 How to reach me: Facebook, [LinkedIn](url), Instagram, and learn more about my journey in my [Blog](https://usodelduca.github.io/index.html)
+- 📫 How to reach me: Facebook, [LinkedIn](url), Instagram, learn more about my journey in my [Blog](https://usodelduca.github.io/index.html), and check out my new [portfolio website](www.rodolfodelduca.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsoDelduca&theme=transparent)](https://github.com/UsoDelduca/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsoDelduca&theme=transparent&layout=donut)](https://github.com/UsoDelduca/github-readme-stats)
