@@ -6,7 +6,7 @@
     - Testing,
     - Next.Js 13,
     - PHP,
-    - C#,
+    - C#, .NET
     - AWS and Azure, and much more...
 - :computer: Open to work and actively looking for a Junior position :computer:
 - 💞️ I’m looking to collaborate on important matters =)
