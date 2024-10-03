@@ -4,7 +4,7 @@
     - getting an External API,
     - Tailwind,
     - Testing,
-    - Next.Js 13,
+    - Next.Js 13+,
     - PHP,
     - C#, .NET
     - AWS and Azure, and much more...
